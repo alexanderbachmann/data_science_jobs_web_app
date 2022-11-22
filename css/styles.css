@@ -1,0 +1,62 @@
+/*Colour hyperlinks*/
+a {
+  color: #E00008;
+}
+
+a:hover {
+  color: #858B8E;
+}
+
+/*Colour hyperlinks*/
+a {
+  color: #E00008;
+}
+
+a:hover {
+  color: #858B8E;
+}
+
+#sources {
+  background-color: #333333;
+  color: white;
+  text-align: right;
+}
+
+.bslib-sidebar-layout>.sidebar {
+  overflow-y: hidden;
+}
+
+/*Colour of nav bar Title*/
+.navbar-nav {
+    --bs-nav-link-padding-x: 0;
+    --bs-nav-link-padding-y: .5rem;
+    --bs-nav-link-font-weight: ;
+    --bs-nav-link-color: #b2b2b2 !important;
+    --bs-nav-link-hover-color: #ff6647 !important;
+    --bs-nav-link-disabled-color: #2c3e50 !important;
+    display: flex;
+    display: -webkit-flex;
+    flex-direction: column;
+    -webkit-flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+#sidebar {
+  background-color: #333333;
+}
+
+/*Colour of nav bar tabs when hovering and active*/
+
+
+                            
+/* Horizontal line color */
+hr {
+  color: black;
+}
+                            
+/* Main table salry in usd gray color */                            
+.gt_table_body {
+  font-size: 20px;
+}

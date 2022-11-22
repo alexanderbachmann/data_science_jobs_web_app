@@ -1,0 +1,13 @@
+name: data_science_jobs_app
+title: data_science_jobs_app
+username:
+account: janiobachmann
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7331145
+bundleId: 6418508
+url: https://janiobachmann.shinyapps.io/data_science_jobs_app/
+when: 1666173886.18023
+lastSyncTime: 1666173886.18026
+asMultiple: FALSE
+asStatic: FALSE
